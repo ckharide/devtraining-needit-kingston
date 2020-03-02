@@ -1,0 +1,1 @@
+For any system to connect with SAP ECC, they need to define SAP native parameters (like Client, SID, etc.) which are required to connect to SAP system using SAP proprietary Java connector (JCo) libraries. 
